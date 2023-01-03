@@ -21,8 +21,3 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
-
-# cached files
-hello-world/node_modules/.cache/*
-hello-world/node_modules/.cache
- hello-world/node_modules/.cache*
